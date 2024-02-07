@@ -27,23 +27,23 @@ https://www.npmjs.com/package/json-server
 
 # Sample Flight Dates
 
-1."İstanbul Havalimanı (IST)" - "Kütahya Zafer Havalimanı (KZR)",
-"2024-02-10" - "2024-02-13",
+1. "İstanbul Havalimanı (IST)" - "Kütahya Zafer Havalimanı (KZR)",
+   "2024-02-10" - "2024-02-13",
 
-2."Kütahya Zafer Havalimanı (KZR)" - "İstanbul Havalimanı (IST)",
-"2024-02-10" - "2024-02-13",
+2. "Kütahya Zafer Havalimanı (KZR)" - "İstanbul Havalimanı (IST)",
+   "2024-02-10" - "2024-02-13",
 
-3."İstanbul Havalimanı (IST)" - "İzmir Adnan Menderes Havalimanı (ADB)",
-"2024-02-09" - "2024-02-10",
+3. "İstanbul Havalimanı (IST)" - "İzmir Adnan Menderes Havalimanı (ADB)",
+   "2024-02-09" - "2024-02-10",
 
-4."İzmir Adnan Menderes Havalimanı (ADB)" - "İstanbul Havalimanı (IST)",
-"2024-02-09" - "2024-02-10",
+4. "İzmir Adnan Menderes Havalimanı (ADB)" - "İstanbul Havalimanı (IST)",
+   "2024-02-09" - "2024-02-10",
 
-5."İstanbul Sabiha Gökçen Havalimanı (SAW)" - "Eskişehir Hasan Polatkan Havalimanı (AOE)",
-"2024-02-09" - "2024-02-10",
+5. "İstanbul Sabiha Gökçen Havalimanı (SAW)" - "Eskişehir Hasan Polatkan Havalimanı (AOE)",
+   "2024-02-09" - "2024-02-10",
 
-6."Eskişehir Hasan Polatkan Havalimanı (AOE)" - "İstanbul Sabiha Gökçen Havalimanı (SAW)",
-"2024-02-09" - "2024-02-10",
+6. "Eskişehir Hasan Polatkan Havalimanı (AOE)" - "İstanbul Sabiha Gökçen Havalimanı (SAW)",
+   "2024-02-09" - "2024-02-10",
 
 # Screenshots of Pages and Flow
 
