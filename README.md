@@ -27,6 +27,37 @@ This project is made with React Js. Tailwind css is preferred as a visual librar
 <p> Json-server is used for mock api. </p>
 https://www.npmjs.com/package/json-server
 
+# Sample Flight Dates
+1. "departure": "İstanbul Havalimanı (IST)",
+  "destination": "Kütahya Zafer Havalimanı (KZR)",
+  "departureDate": "2024-02-10",
+  "arrivalDate": "2024-02-13",
+
+2. "departure": "Kütahya Zafer Havalimanı (KZR)",
+  "destination": "İstanbul Havalimanı (IST)",
+  "departureDate": "2024-02-10",
+  "arrivalDate": "2024-02-13",
+
+3. "departure": "İstanbul Havalimanı (IST)",
+  "destination": "İzmir Adnan Menderes Havalimanı (ADB)",
+  "departureDate": "2024-02-09",
+  "arrivalDate": "2024-02-10",
+
+4. "departure": "İzmir Adnan Menderes Havalimanı (ADB)",
+  "destination": "İstanbul Havalimanı (IST)",
+  "departureDate": "2024-02-09",
+  "arrivalDate": "2024-02-10",
+
+5. "departure": "İstanbul Sabiha Gökçen Havalimanı (SAW)",
+  "destination": "Eskişehir Hasan Polatkan Havalimanı (AOE)",
+  "departureDate": "2024-02-09",
+  "arrivalDate": "2024-02-10",
+
+6. "departure": "Eskişehir Hasan Polatkan Havalimanı (AOE)",
+  "destination": "İstanbul Sabiha Gökçen Havalimanı (SAW)",
+  "departureDate": "2024-02-09",
+  "arrivalDate": "2024-02-10",
+
 # Screenshots of Pages and Flow
 
 <img width="1432" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/mainPage.png">
@@ -34,3 +65,5 @@ https://www.npmjs.com/package/json-server
 <img width="1429" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/flightList.png">
 <img width="1427" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/oneWay.png">
 <img width="1423" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/noFlight.png">
+<img width="1423" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/sortedByPrice.png">
+<img width="1423" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/sortedByDuration.png">
