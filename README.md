@@ -1,10 +1,8 @@
-
 # Online Bookstore
 
 This project is an online book website project. Homepage, book details, shopping card etc. keys were taken into consideration and a road map was created.
 
 # Follow the steps below to run the project in your local environment.
-
 
 ```bash
 npm install
@@ -18,45 +16,34 @@ npm run dev
 npx json-server db.json
 ```
 
-
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
 # Tech Stack & API
 
-This project is made with React Js. Tailwind css is preferred as a visual library. 
+This project is made with React Js. Tailwind css is preferred as a visual library.
+
 <p> Json-server is used for mock api. </p>
 https://www.npmjs.com/package/json-server
 
 # Sample Flight Dates
-1. "departure": "İstanbul Havalimanı (IST)",
-  "destination": "Kütahya Zafer Havalimanı (KZR)",
-  "departureDate": "2024-02-10",
-  "arrivalDate": "2024-02-13",
 
-2. "departure": "Kütahya Zafer Havalimanı (KZR)",
-  "destination": "İstanbul Havalimanı (IST)",
-  "departureDate": "2024-02-10",
-  "arrivalDate": "2024-02-13",
+1."İstanbul Havalimanı (IST)" - "Kütahya Zafer Havalimanı (KZR)",
+"2024-02-10" - "2024-02-13",
 
-3. "departure": "İstanbul Havalimanı (IST)",
-  "destination": "İzmir Adnan Menderes Havalimanı (ADB)",
-  "departureDate": "2024-02-09",
-  "arrivalDate": "2024-02-10",
+2."Kütahya Zafer Havalimanı (KZR)" - "İstanbul Havalimanı (IST)",
+"2024-02-10" - "2024-02-13",
 
-4. "departure": "İzmir Adnan Menderes Havalimanı (ADB)",
-  "destination": "İstanbul Havalimanı (IST)",
-  "departureDate": "2024-02-09",
-  "arrivalDate": "2024-02-10",
+3."İstanbul Havalimanı (IST)" - "İzmir Adnan Menderes Havalimanı (ADB)",
+"2024-02-09" - "2024-02-10",
 
-5. "departure": "İstanbul Sabiha Gökçen Havalimanı (SAW)",
-  "destination": "Eskişehir Hasan Polatkan Havalimanı (AOE)",
-  "departureDate": "2024-02-09",
-  "arrivalDate": "2024-02-10",
+4."İzmir Adnan Menderes Havalimanı (ADB)" - "İstanbul Havalimanı (IST)",
+"2024-02-09" - "2024-02-10",
 
-6. "departure": "Eskişehir Hasan Polatkan Havalimanı (AOE)",
-  "destination": "İstanbul Sabiha Gökçen Havalimanı (SAW)",
-  "departureDate": "2024-02-09",
-  "arrivalDate": "2024-02-10",
+5."İstanbul Sabiha Gökçen Havalimanı (SAW)" - "Eskişehir Hasan Polatkan Havalimanı (AOE)",
+"2024-02-09" - "2024-02-10",
+
+6."Eskişehir Hasan Polatkan Havalimanı (AOE)" - "İstanbul Sabiha Gökçen Havalimanı (SAW)",
+"2024-02-09" - "2024-02-10",
 
 # Screenshots of Pages and Flow
 
