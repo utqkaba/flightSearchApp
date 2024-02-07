@@ -17,6 +17,8 @@ npx json-server db.json
 ```
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+You can see the mock apis used at [http://localhost:3000/airports](http://localhost:3000/airports) and
+[http://localhost:3000/flights](http://localhost:3000/flights) after running json-server.
 
 # Tech Stack & API
 
