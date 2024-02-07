@@ -1,6 +1,5 @@
 import FlightHeader from './components/FlightHeader'
 import FlightForm from "./components/FlightForm";
-// import TicketCard from './components/TicketCard';
 
 function App() {
 
@@ -8,7 +7,6 @@ function App() {
     <div>
       <FlightHeader />
       <FlightForm />
-      {/* <TicketCard /> */}
     </div>
   )
 }
