@@ -1,8 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Online Bookstore
 
-Currently, two official plugins are available:
+This project is an online book website project. Homepage, book details, shopping card etc. keys were taken into consideration and a road map was created.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Follow the steps below to run the project in your local environment.
+
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
+
+```bash
+npx json-server db.json
+```
+
+
+Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+
+# Tech Stack & API
+
+This project is made with React Js. Tailwind css is preferred as a visual library. 
+<p> Json-server is used for mock api. </p>
+https://www.npmjs.com/package/json-server
+
+# Screenshots of Pages and Flow
+
+<img width="1432" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/mainPage.png">
+<img width="1428" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/searchedFlight.png">
+<img width="1429" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/flightList.png">
+<img width="1427" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/oneWay.png">
+<img width="1423" alt="flight search app" src="https://github.com/utqkaba/flightSearchApp/blob/main/src/assets/noFlight.png">
