@@ -1,6 +1,6 @@
-# Online Bookstore
+# Flight Search App
 
-This project is an online book website project. Homepage, book details, shopping card etc. keys were taken into consideration and a road map was created.
+This project is an flight search website project. You can check for available tickets by entering your flight information.
 
 # Follow the steps below to run the project in your local environment.
 
